@@ -1,0 +1,7 @@
+PyQt5
+flask
+flask-socketio
+eventlet
+python-socketio
+websocket-client
+requests
